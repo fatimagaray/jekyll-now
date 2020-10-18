@@ -3,9 +3,7 @@ layout: post
 title: test
 ---
 
-# Bienvenido a mi nuevo blog
-
-Espero que te entretenga...
+# Otro post
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget urna ac metus accumsan placerat eu cursus tellus. Fusce id dui sed velit tincidunt vestibulum sed nec elit. In vel mauris viverra turpis vestibulum cursus. Maecenas laoreet dictum odio, molestie semper tellus blandit eget. Curabitur id placerat massa. Phasellus eget massa consectetur massa laoreet consectetur at ac magna. Fusce id massa eros. Aliquam non augue lacus.
 
